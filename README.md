@@ -66,7 +66,7 @@
 
 Adam Wanninger operates a suite of Model Context Protocol (MCP) servers that expose public transit, city data, and other municipal information as AI‑ready tools. Hosted at queenscoach.adamwanninger.com and queensestate.adamwanninger.com, these servers let assistants retrieve real‑time bus arrivals, schedule timetables, address profiles, crime statistics, and budget data. The site also provides links to source code on GitHub and packages on PyPI, emphasizing open‑source transparency and community‑driven development.
 
-**Areas:** MCP · Transit · Open-Data · AI-Tools · City-Data · Company
+**Areas:** MCP · Transit · Open Data · AI Tools · City-Data · Company
 
 ## adamwanninger-com on APIs.io
 
@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adamwanninger Com Authentication](https://apis.io/security/adamwanninger-com/adamwanninger-com-authentication/)
-- [Adamwanninger Com Domain Security](https://apis.io/security/adamwanninger-com/adamwanninger-com-domain-security/)
+- [adamwanninger-com Authentication](https://apis.io/security/adamwanninger-com/adamwanninger-com-authentication/)
+- [adamwanninger-com Domain Security](https://apis.io/security/adamwanninger-com/adamwanninger-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adamwanninger Com Scopes](https://apis.io/scopes/adamwanninger-com/adamwanninger-com-scopes/)
+- [adamwanninger-com Scopes](https://apis.io/scopes/adamwanninger-com/adamwanninger-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adamwanninger Com Plans Pricing](https://apis.io/plans/adamwanninger-com/adamwanninger-com-plans-pricing/)
+- [adamwanninger-com Plans Pricing](https://apis.io/plans/adamwanninger-com/adamwanninger-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adamwanninger Com Rate Limits](https://apis.io/rate-limits/adamwanninger-com/adamwanninger-com-rate-limits/)
+- [adamwanninger-com Rate Limits](https://apis.io/rate-limits/adamwanninger-com/adamwanninger-com-rate-limits/)
 
 ## Where to find this API
 
@@ -116,25 +116,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 13.0** — emerging · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 13.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 68.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 10.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -152,8 +152,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 23.5** — Government & Public Sector
+**Regulatory alignment 17.6** — Government & Public Sector
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adamwanninger-com/](https://apis.io/providers/adamwanninger-com/).
 
